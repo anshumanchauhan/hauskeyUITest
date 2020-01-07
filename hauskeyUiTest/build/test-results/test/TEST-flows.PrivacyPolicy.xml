@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="flows.PrivacyPolicy" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-07T10:56:26" hostname="DESKTOP-J57H3DV" time="23.65">
+  <properties/>
+  <testcase name="privacy" classname="flows.PrivacyPolicy" time="23.65"/>
+  <system-out><![CDATA[hiiiii
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 78.0.3904.105 (60e2d8774a8151efa6a00b1f358371b1e0e07ee2-refs/branch-heads/3904@{#877}) on port 35361
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1578394588.017][WARNING]: This version of ChromeDriver has not been tested with Chrome version 79.
+Jan 07, 2020 4:26:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
